@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" modified="2024-01-06T12:33:40.635Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="IFWhIxJRUgYbQ2CF32ol" version="22.1.17" type="device">
+  <diagram name="Страница — 1" id="XcSmmtga9LR_NVA-g2vo">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nt2iaz5YG0pVjTO12I6K-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nt2iaz5YG0pVjTO12I6K-1" target="nt2iaz5YG0pVjTO12I6K-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nt2iaz5YG0pVjTO12I6K-1" value="старт" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nt2iaz5YG0pVjTO12I6K-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nt2iaz5YG0pVjTO12I6K-2" target="nt2iaz5YG0pVjTO12I6K-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nt2iaz5YG0pVjTO12I6K-2" value="Введите элементы массива через запятую" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nt2iaz5YG0pVjTO12I6K-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nt2iaz5YG0pVjTO12I6K-4" target="nt2iaz5YG0pVjTO12I6K-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nt2iaz5YG0pVjTO12I6K-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nt2iaz5YG0pVjTO12I6K-4" target="nt2iaz5YG0pVjTO12I6K-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nt2iaz5YG0pVjTO12I6K-4" value="Проверка на пустой ввод&amp;nbsp;&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="280" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nt2iaz5YG0pVjTO12I6K-5" value="Вывести сообщение &quot;Введен пустой массив.&quot; Программа завершена." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nt2iaz5YG0pVjTO12I6K-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nt2iaz5YG0pVjTO12I6K-6" target="nt2iaz5YG0pVjTO12I6K-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nt2iaz5YG0pVjTO12I6K-6" value="Перебор элементов входного массива." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nt2iaz5YG0pVjTO12I6K-8" value="да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="288" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nt2iaz5YG0pVjTO12I6K-10" value="нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="388" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nt2iaz5YG0pVjTO12I6K-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nt2iaz5YG0pVjTO12I6K-12" target="nt2iaz5YG0pVjTO12I6K-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nt2iaz5YG0pVjTO12I6K-12" value="Выбрать элементы у которых длина текущей строки меньше или равна 3 символам" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="400" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nt2iaz5YG0pVjTO12I6K-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="nt2iaz5YG0pVjTO12I6K-14" target="nt2iaz5YG0pVjTO12I6K-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nt2iaz5YG0pVjTO12I6K-14" value="Уменьшить размер массива вывода до outputIndex" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nt2iaz5YG0pVjTO12I6K-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nt2iaz5YG0pVjTO12I6K-17" target="nt2iaz5YG0pVjTO12I6K-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nt2iaz5YG0pVjTO12I6K-17" value="Вывести новый массив" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nt2iaz5YG0pVjTO12I6K-18" value="конец" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
